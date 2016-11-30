@@ -1,0 +1,12 @@
+click==6.6
+codegen==1.0
+Django==1.10.3
+django-filter==0.15.3
+djangorestframework==3.5.3
+env==0.1.0
+first==2.0.1
+Markdown==2.6.7
+patterns==0.3
+pip-tools==1.8.0
+PyYAML==3.12
+six==1.10.0
